@@ -1,0 +1,20 @@
+[
+  {
+    "userName": "Love",
+    "password": "test",
+    "id": 45856468,
+    "newsletter": true
+  },
+  {
+    "userName": "Pelle",
+    "password": "ananas",
+    "id": 16458736,
+    "newsletter": true
+  },
+  {
+    "userName": "Sara",
+    "password": "fisk",
+    "id": 48654762,
+    "newsletter": false
+  }
+]
