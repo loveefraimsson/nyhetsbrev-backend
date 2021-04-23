@@ -16,9 +16,14 @@ https://nyhetsbrevet.herokuapp.com/
 
 
 Det finns befintliga användare som man kan testa mot databasen. Några av deras inloggningsuppgifter finns här: 
-Love - test
-Anders - hej
-Knatte - snö
-Fnatte - stol
-Tjatte - lampa
-Gunnar - glas
+* Love - test
+
+* Anders - hej
+
+* Knatte - snö
+
+* Fnatte - stol
+
+* Tjatte - lampa
+
+* Gunnar - glas
