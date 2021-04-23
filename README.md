@@ -11,8 +11,11 @@ Du kan även klona ner front-end-projektet från adressen ovan, följ då även 
 Detta projektet ligger live och admin-funktionen kan testas här: https://nyhetsbrevet.herokuapp.com/admin
 Lösenordet är admin.
 
+Startsidan för projektet hittas här:
+https://nyhetsbrevet.herokuapp.com/
 
-Det finns några befintliga användare som man kan testa mot databasen från front-end. Här är deras inloggningsuppgifter: 
+
+Det finns befintliga användare som man kan testa mot databasen. Några av deras inloggningsuppgifter finns här: 
 Love - test
 Anders - hej
 Knatte - snö
