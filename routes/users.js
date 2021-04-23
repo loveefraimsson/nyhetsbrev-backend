@@ -12,7 +12,7 @@ router.use(cors());
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('Här är users router');
+  res.send('Start-sida för inlämningsuppgiften Nyhetsbrev, för att logga in som admin, klicka på länken: https://nyhetsbrevet.herokuapp.com/admin');
 });
 
 
