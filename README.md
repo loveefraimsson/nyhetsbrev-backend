@@ -8,13 +8,6 @@ Data-basen ligger live på Mongo Atlas och kan därmed kommas åt från vilken d
 
 Du kan även klona ner front-end-projektet från adressen ovan, följ då även instuktionerna i det projektets README-fil.
 
-Detta projektet ligger live och admin-funktionen kan testas här: https://nyhetsbrevet.herokuapp.com/admin
-Lösenordet är admin.
-
-Startsidan för projektet hittas här:
-https://nyhetsbrevet.herokuapp.com/
-
-
 Det finns befintliga användare som man kan testa mot databasen. Några av deras inloggningsuppgifter finns här: 
 * Love - test
 
